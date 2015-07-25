@@ -1,5 +1,6 @@
 package com.company;
-
+//It's a test for git branch.
+//so that's a kind of tolerance
 import org.omg.PortableInterceptor.INACTIVE;
 
 import java.util.Scanner;
